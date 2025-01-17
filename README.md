@@ -41,3 +41,13 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+
+## Notes to self: Terminal commands to remember
+
+* Run the project server locally: bundle exec jekyll s
+* Push changes: 
+    1. git add .
+    2. git commit -m 'insert message here'
+    3. git push origin main
+
