@@ -1,6 +1,6 @@
 ---
 title: "Regression: Cross-Validation"
-date: 2025-01-17 
+date: 2025-01-17 00:00:00 +0800
 categories: [regression]
 tags: [scikit-learn, regression, python, supervised learning]
 ---
