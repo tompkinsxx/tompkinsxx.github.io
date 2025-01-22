@@ -13,7 +13,7 @@ It can happen when there is not enough training data, the training data is too n
 
 For example, in the visual below, the overfitted model predicts each point with complete accuracy, but this model would not handle new data well. The optimal model on the left has higher residuals, but it will generalize better to new data. 
 
-![Overfitting example](/assets/images/2025-01-21_overfitting.jpg)
+![Overfitting example](assets/images/2025-01-21_overfitting.jpg)
 Source: https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/
 
 **Regularization** is a collection of techniques used to prevent overfitting. These techniques penalize the features that are less influential on the model's predictions. Two common regularization techniques are **ridge regression** and **lasso regression**. Without getting into the mathematical details, the main difference between these two is that lasso will zero out the less useful features, while ridge will just reduce them. 
@@ -80,6 +80,6 @@ plt.show()
 ```
 This will produce a bar chart showing the significance of the features. It helps us identify important predictors and communicate that to others. 
 
-![Data Camp: Lasso for feature selection in scikit-learn](/assets/images/2025-01-21_lasso_coefficients.png)
+![Data Camp: Lasso for feature selection in scikit-learn](assets/images/2025-01-21_lasso_coefficients.png)
 Source: Data Camp
 

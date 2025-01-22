@@ -22,7 +22,7 @@ In other cases, you might be more concerned about false positives. For example, 
 
 A **confusion matrix** is a two-by-two grid which displays all of the values for TP, TN, FP, and FN.
 
-![Confusion matrix](/assets/lib/images/2025-01-22_confusion-matrix.png)
+![Confusion matrix](assets/images/2025-01-22_confusion-matrix.png)
 [Source](https://rumn.medium.com/precision-recall-and-f1-explained-with-10-ml-use-case-6ef2fbe458e5)
 
 ## Metrics
@@ -72,4 +72,4 @@ print(classification_report(y_test, y_pred)
 
 Sample results of confusion matrix and classification report: 
 
-![code output](/assets/lib/images/2025-01-22_code-output.png)
+![code output](assets/images/2025-01-22_code-output.png)
