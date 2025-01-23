@@ -1,6 +1,6 @@
 ---
 title: "Regression: Regularization"
-date: 2025-01-21 00:00:00 +0800
+date: 2025-01-21 00:00:00 +0000
 categories: [regression]
 tags: [scikit-learn, regression, python, supervised learning, overfitting]
 ---
