@@ -1,7 +1,7 @@
 ---
-title: "Regression: Metrics and the Confusion Matrix"
-date: 2025-01-21 00:00:00 +0800
-categories: [regression]
+title: "Classification Metrics and the Confusion Matrix"
+date: 2025-01-22 00:00:00 +0000
+categories: [classification]
 tags: [scikit-learn, classification, python, supervised learning, metrics, model assessment]
 ---
 
